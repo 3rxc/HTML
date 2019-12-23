@@ -1,8 +1,9 @@
+/*#0D0C07 #A69E94*/
 a {
-    color: red;
+    color: #D93644;
 }
 body {
-    background-color: pink;
+    background-color: #73685C;
 }
 .site-navbar {
     padding-top: 3rem;
@@ -14,6 +15,6 @@ body {
 }
 .site-navbar .site-logo a {
     text-transform: uppercase;
-    color: #fff;
+    color: #F22233;
     font-family: 'Julius Sans One', sans-serif;
 }
