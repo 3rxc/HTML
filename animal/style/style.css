@@ -1,1 +1,13 @@
-
+.site-navbar {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.site-navbar .site-logo {
+    float: left;
+    position: relative;
+}
+.site-navbar .site-logo a {
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'Julius Sans One', sans-serif;
+}
