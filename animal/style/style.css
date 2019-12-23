@@ -1,3 +1,9 @@
+a {
+    color: red;
+}
+body {
+    background-color: pink;
+}
 .site-navbar {
     padding-top: 3rem;
     padding-bottom: 3rem;
