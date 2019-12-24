@@ -33,3 +33,6 @@ a:hover {
     color: #F22233;
     font-family: 'Julius Sans One', sans-serif;
 }
+.site-navbar ul li a.active {
+    color: #fff !important;
+}
