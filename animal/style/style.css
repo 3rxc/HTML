@@ -1,9 +1,15 @@
 /*#0D0C07 #A69E94*/
-a {
-    color: #D93644;
+html {
+    overflow-x: hidden;
 }
-body {
-    background-color: #73685C;
+a {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
 }
 .site-navbar {
     padding-top: 3rem;
