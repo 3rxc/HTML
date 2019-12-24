@@ -2,6 +2,15 @@
 html {
     overflow-x: hidden;
 }
+
+body {
+    line-height: 1.7;
+    color: #0D0C07 !important;
+    font-weight: 300;
+    font-size: 1rem;
+    background: #fff;
+    font-family: "Julius Sans One", sans-serif; }
+
 a {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
