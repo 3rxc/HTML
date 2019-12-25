@@ -6,10 +6,9 @@ html {
 
 body {
     line-height: 1.7;
-    color: #000 !important;
+    background-color: #000 !important;
     font-weight: 300;
     font-size: 1rem;
-    background: #fff;
     font-family: "Julius Sans One", serif; }
 
 ::selection {
